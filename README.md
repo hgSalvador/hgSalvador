@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Fullstack developer
 - 🌱 I'm currently learning Java and have experience with PHP, Laravel, TypeScript, NodeJS, ReactJS, Python, and Docker
-- 📫 Contact: hugosalvador@example.com
+- 📫 Contact: hugossalvador1241@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=hugosalvador&label=Profile%20views&color=0e75b6&style=flat" alt="hugosalvador" /> ![GitHub followers](https://img.shields.io/github/followers/hugosalvador) ![GitHub User's stars](https://img.shields.io/github/stars/hugosalvador)
 
@@ -22,7 +22,6 @@
    <img align="center" alt="Hugo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <img align="center" alt="Hugo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Hugo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Hugo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  </div>
   
 ##
