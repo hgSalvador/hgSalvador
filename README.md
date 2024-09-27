@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there, I'm Hugo Salvador! 👋</h1>
 
-- 🔭 I’m a Fullstack developer
+- 🔭 I’m a Fullstack Engineer
 - 🌱 I'm currently learning Java and have experience with PHP, Laravel, TypeScript, NodeJS, ReactJS, Python
 - 📫 Contact: hugossalvador1241@gmail.com
 
