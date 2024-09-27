@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Hugo! 👋
 
-<!--
-**HugoSalvador/HugoSalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a Fullstack Developer 
+🌱 Currently improving my skills in Java and have experience in PHP, Laravel, NodeJS, TypeScript, and Python
+📫 How to reach me: hugossalvador1241@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- PHP 
+- Laravel
+- TypeScript
+- NodeJS
+- ReactJS
+- Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hugo-salvador-17281a162/)  
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:hugossalvador1241@gmail.com)
+
+---
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSalvador&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSalvadorb&layout=compact&theme=dracula)
