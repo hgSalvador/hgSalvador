@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there, I'm Hugo Salvador! 👋</h1>
 
 - 🔭 I’m a Fullstack Engineer
-- 🌱 I'm currently learning Java and have experience with PHP, Laravel, TypeScript, NodeJS, ReactJS, Python
+- 🌱 I'm currently experience with PHP, Laravel, TypeScript, NodeJS, ReactJS, Python
 - 📫 Contact: hugossalvador1241@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=hgSalvador&label=Profile%20views&color=0e75b6&style=flat" alt="hugosalvador" /> ![GitHub followers](https://img.shields.io/github/followers/hgSalvador) ![GitHub User's stars](https://img.shields.io/github/stars/hgSalvador)
